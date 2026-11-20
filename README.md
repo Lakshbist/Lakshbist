@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Lakshmi Bist](https://github.com/Lakshbist/Lakshbist/edit/main/README.md)
 - 👀 I’m interested in **solving problems**.
-- 🌱 I’m currently learning SQL, Power BI, MS Excel, and python through a course.
+- 🌱 I’m currently learning SQL, Power BI, Advance MS Excel, and python through a course.
 - 💞️ It would be great to collaborate with other experts and upcomming enthusiastic developers out there.
 - 📫 On git hub - @lakshbist
 
